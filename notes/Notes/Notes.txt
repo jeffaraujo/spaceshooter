@@ -10,3 +10,5 @@
 
 3 - Atirando
 	3.1 - Importando as sprites do tiro
+	3.2 - Criando o objeto para o tiro do player
+	

@@ -26,3 +26,26 @@
 //Outra super forma
 x += (keyboard_check(ord("D")) - keyboard_check(ord("A"))) * vel;
 y += (keyboard_check(ord("S")) - keyboard_check(ord("W"))) * vel;
+
+
+//Atirando
+if(keyboard_check_pressed(vk_space))
+{
+	//TODO: colocar uma trava para o tiro
+	
+	//Instanciando o tiro e tocando o som
+	instance_create_layer(x, y - (sprite_height / 2), "Tiros", obj_tiro_player);
+	audio_play_sound(sfx_laser1, 2, false);
+}
+
+//Escudo
+if(keyboard_check(ord("E")))
+{
+	//Verificando se a instancia existe para poder criar o escudo
+	if(!instance_exists(obj_escudo_player))
+	{
+		//Criando a instancia do escudo
+		instance_create_layer(x, y, "Escudo", obj_escudo_player);
+		audio_play_sound(sfx_shieldup, 2, false);
+	}
+}
