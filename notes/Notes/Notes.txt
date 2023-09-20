@@ -9,6 +9,10 @@
 	2.2 - Ajustando as dimensões para a view ser grande e o viewport menor
 
 3 - Atirando
-	3.1 - Importando as sprites do tiro
-	3.2 - Criando o objeto para o tiro do player
+	3.1 - Importando as sprites do tiro FEITO
+	3.2 - Criando o objeto para o tiro do player FEITO
+	3.3 - Fazendo o tiro ir para cima Feito
+	3.4 - Fazendo o jogador atirar ao apertar espaço
+
+teste
 	
