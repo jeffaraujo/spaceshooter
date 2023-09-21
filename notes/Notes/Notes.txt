@@ -18,8 +18,16 @@
 	3.6 - Destruir o tiro quando ele sair da tela
 
 4 - Criando o primeiro inimigo
-	4.1 - Importando as sprites
-	4.2 - Criando o objeto
-	4.3 - Fazendo ele ir para baixo
+	4.1 - Importando as sprites Feito
+	4.2 - Criando o objeto FEITO
+	4.3 - Fazendo ele ir para baixo FEITO
 
-	
+5 - Fazendo o inimigo atirar
+	5.1 - Importando a sprite do tiro FEITO
+	5.2 - Criar o objeto do tiro FEITO
+	5.3 - Fazendo o tiro ir para baixo FEITO
+	5.4 - Atirando de fato FEITO
+	5.5 - Dando o efeito no tiro FEITO
+
+(Criação de métodos)
+
