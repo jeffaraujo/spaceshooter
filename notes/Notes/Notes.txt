@@ -30,4 +30,14 @@
 	5.5 - Dando o efeito no tiro FEITO
 
 (Criação de métodos)
+6 - Fazendo o tiro do player acertar o inimigo
+	6.1 - Se destruir ao acertar o inimigo FEITO
+	6.2 - Criar o impacto do tiro do player FEITO
+	6.3 - Fazendo o impacto do tiro desaparecer no final da animação
+	6.4 - Fazer o tiro NÃO criar o impacto quando ele sair da room
 
+7 - Fazendo o tiro do inimigo acertar o player
+
+8 - Fazendo o inimigo ser destruido ao levar o tiro
+	8.1 - Fazer o tiro também destruir o objeto que colidiu com ele
+	8.2 - Criar efeito de explosão quando o inimigo for destruído
